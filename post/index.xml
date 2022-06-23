@@ -1,28 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://Limuru18.github.io/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on limuru&#39;s blog</title>
+    <link>https://limuru18.github.io/post/</link>
+    <description>Recent content in Posts on limuru&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jun 2022 16:53:56 +0800</lastBuildDate><atom:link href="https://Limuru18.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 23 Jun 2022 15:00:48 +0800</lastBuildDate><atom:link href="https://limuru18.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog1</title>
-      <link>https://Limuru18.github.io/post/blog1/</link>
-      <pubDate>Mon, 20 Jun 2022 16:53:56 +0800</pubDate>
+      <title>Blog2</title>
+      <link>https://limuru18.github.io/post/blog2/</link>
+      <pubDate>Thu, 23 Jun 2022 15:00:48 +0800</pubDate>
       
-      <guid>https://Limuru18.github.io/post/blog1/</guid>
+      <guid>https://limuru18.github.io/post/blog2/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Blog1</title>
+      <link>https://limuru18.github.io/post/blog1/</link>
+      <pubDate>Mon, 20 Jun 2022 16:53:56 +0800</pubDate>
+      
+      <guid>https://limuru18.github.io/post/blog1/</guid>
+      <description>Welcome to Limuru&amp;rsquo;s hugo site</description>
+    </item>
+    
+    <item>
       <title>Blog0</title>
-      <link>https://Limuru18.github.io/post/blog0/</link>
+      <link>https://limuru18.github.io/post/blog0/</link>
       <pubDate>Mon, 20 Jun 2022 16:43:50 +0800</pubDate>
       
-      <guid>https://Limuru18.github.io/post/blog0/</guid>
-      <description>Text Blog 这是用来测试博客各种功能是否完整的博客</description>
+      <guid>https://limuru18.github.io/post/blog0/</guid>
+      <description>Text Blog 这是用来测试博客各种功能是否完整的博客 文字测试：中文,English 图片测试</description>
     </item>
     
   </channel>
