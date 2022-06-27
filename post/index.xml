@@ -16,14 +16,5 @@
       <description>这里我将介绍一下我是如何搭建博客的 首先便是跟着CSDN的相关教程一直走，前面的全部步骤都十分顺利，可就是最后一步出现了问题，主要的问题便是我</description>
     </item>
     
-    <item>
-      <title>Blog0</title>
-      <link>limuru18.github.io/post/blog0/</link>
-      <pubDate>Mon, 20 Jun 2022 16:43:50 +0800</pubDate>
-      
-      <guid>limuru18.github.io/post/blog0/</guid>
-      <description>Text Blog 这是用来测试博客各种功能是否完整的博客 文字测试：中文,English 图片测试</description>
-    </item>
-    
   </channel>
 </rss>
