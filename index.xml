@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>limuru&#39;s blog</title>
-    <link>https://limuru18.github.io/</link>
+    <link>limuru18.github.io/</link>
     <description>Recent content on limuru&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 23 Jun 2022 15:00:48 +0800</lastBuildDate><atom:link href="https://limuru18.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jun 2022 15:00:48 +0800</lastBuildDate><atom:link href="limuru18.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog2</title>
-      <link>https://limuru18.github.io/post/blog2/</link>
+      <link>limuru18.github.io/post/blog2/</link>
       <pubDate>Thu, 23 Jun 2022 15:00:48 +0800</pubDate>
       
-      <guid>https://limuru18.github.io/post/blog2/</guid>
+      <guid>limuru18.github.io/post/blog2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog1</title>
-      <link>https://limuru18.github.io/post/blog1/</link>
+      <link>limuru18.github.io/post/blog1/</link>
       <pubDate>Mon, 20 Jun 2022 16:53:56 +0800</pubDate>
       
-      <guid>https://limuru18.github.io/post/blog1/</guid>
-      <description>Welcome to Limuru&amp;rsquo;s hugo site</description>
+      <guid>limuru18.github.io/post/blog1/</guid>
+      <description>这里我将介绍一下我是如何搭建博客的 首先便是跟着CSDN的相关教程一直走，前面的全部步骤都十分顺利，可就是最后一步出现了问题，主要的问题便是我</description>
     </item>
     
     <item>
       <title>Blog0</title>
-      <link>https://limuru18.github.io/post/blog0/</link>
+      <link>limuru18.github.io/post/blog0/</link>
       <pubDate>Mon, 20 Jun 2022 16:43:50 +0800</pubDate>
       
-      <guid>https://limuru18.github.io/post/blog0/</guid>
+      <guid>limuru18.github.io/post/blog0/</guid>
       <description>Text Blog 这是用来测试博客各种功能是否完整的博客 文字测试：中文,English 图片测试</description>
     </item>
     
